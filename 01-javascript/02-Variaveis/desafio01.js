@@ -9,9 +9,9 @@ Seu programa deve mostrar:
     Total: ...*/
 
 const produto = "Prego";
-let preco = 80.0;
-let qtd = 3;
-let desconto = 20;
-let subtotal = preco* qtd;
-let total = subtotal - desconto;
-console.log("O Valor final da compra do ",produto+" é ",total);
+const preco = 80.0;
+const quantidade = 3;
+const desconto = 20;
+const subtotal = preco * qtd;
+const total = subtotal - desconto;
+console.log("O Valor final da compra do ", produto + " é ", total);
