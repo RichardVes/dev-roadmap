@@ -18,15 +18,15 @@ let, const, var; number, string, boolean, null, undefined.
 Aritméticos, comparação, lógicos e operador ternário.
 [x] Teoria
 [x] Exercícios
-[ ] Desafios
-[ ] Conceito dominado
+[x] Desafios
+[x] Conceito dominado
 
 04 — Condicionais
 if/else e switch.
-[ ] Teoria
-[ ] Exercícios
-[ ] Desafios
-[ ] Conceito dominado
+[x] Teoria
+[x] Exercícios
+[x] Desafios
+[x] Conceito dominado
 
 05 — Loops
 for, while, for...of, for...in.
