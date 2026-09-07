@@ -57,6 +57,45 @@ Declaração, arrow functions, parâmetros, retorno e escopo.
 07 — Arrays
 Métodos essenciais: map, filter, reduce, forEach, find, sort.
 [ ] Teoria
+
+- [x] Fundamentos
+  > Criação de arrays
+  > Índices e posições
+  > Acessando elementos
+  > Alterando elementos
+  > Propriedade length
+- [] Manipulação básica
+  > [x] push()
+  > [x] pop()
+  > [x] shift()
+  > [x] unshift()
+  > [] slice()
+  > [] splice()
+  > [] includes()
+  > [] indexOf()
+- [x] Percorrendo arrays
+  > for
+  > for...of
+  > [x] forEach()
+- [] Métodos funcionais
+  > map()
+  > filter()
+  > find()
+  > reduce()
+- [] Ordenação
+  > sort()
+  > Ordenação de strings
+  > Ordenação numérica
+  > Ordem crescente e decrescente
+  > Cuidado com mutação do array
+- [] Conceitos importantes
+  > Arrays são objetos
+  > Referência vs cópia
+  > Mutabilidade
+  > Métodos que alteram o array original
+  > Métodos que retornam um novo array
+  > Encadeamento de métodos
+
 [ ] Exercícios
 [ ] Desafios
 [ ] Conceito dominado
