@@ -78,10 +78,10 @@ Métodos essenciais: map, filter, reduce, forEach, find, sort.
   > for...of
   > [x] forEach()
 - [] Métodos funcionais
-  > map()
-  > filter()
-  > find()
-  > reduce()
+  > [x] map()
+  > [x]filter()
+  > [x]find()
+  > [x]reduce()
 - [] Ordenação
   > sort()
   > Ordenação de strings
