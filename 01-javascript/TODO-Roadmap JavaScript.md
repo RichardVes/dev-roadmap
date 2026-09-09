@@ -69,10 +69,10 @@ Métodos essenciais: map, filter, reduce, forEach, find, sort.
   > [x] pop()
   > [x] shift()
   > [x] unshift()
-  > [] slice()
-  > [] splice()
-  > [] includes()
-  > [] indexOf()
+  > [x] slice()
+  > [nop] splice()
+  > [nop] includes()
+  > [nop] indexOf()
 - [x] Percorrendo arrays
   > for
   > for...of
@@ -82,13 +82,13 @@ Métodos essenciais: map, filter, reduce, forEach, find, sort.
   > [x]filter()
   > [x]find()
   > [x]reduce()
-- [] Ordenação
+- [x] Ordenação
   > sort()
   > Ordenação de strings
   > Ordenação numérica
   > Ordem crescente e decrescente
   > Cuidado com mutação do array
-- [] Conceitos importantes
+- [x] Conceitos importantes
   > Arrays são objetos
   > Referência vs cópia
   > Mutabilidade
