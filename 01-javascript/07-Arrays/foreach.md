@@ -1,7 +1,4 @@
 forEach() — percorrendo um Array
-
-Agora entramos em um conceito muito importante, porque aqui você vai começar a usar Arrays + Funções juntos.
-
 Você já conhece o for:
 
 const jogos = ["Minecraft", "Zelda", "Pokémon"];

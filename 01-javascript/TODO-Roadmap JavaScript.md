@@ -96,9 +96,9 @@ Métodos essenciais: map, filter, reduce, forEach, find, sort.
   > Métodos que retornam um novo array
   > Encadeamento de métodos
 
-[ ] Exercícios
-[ ] Desafios
-[ ] Conceito dominado
+[x] Exercícios
+[x] Desafios
+[Retornar] Conceito dominado
 
 08 — Objetos
 Propriedades, métodos e o this.
