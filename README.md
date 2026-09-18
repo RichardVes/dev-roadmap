@@ -33,163 +33,19 @@ Meu principal ponto de desenvolvimento é **prática de programação**:
 # 🗺️ Roadmap
 
 ## 01 — JavaScript
-
-* [ ] Fundamentos
-* [ ] Variáveis e tipos
-* [ ] Operadores
-* [ ] Condicionais
-* [ ] Loops
-* [ ] Funções
-* [ ] Arrays
-* [ ] Objetos
-* [ ] Destructuring
-* [ ] Spread / Rest
-* [ ] JSON
-* [ ] Módulos
-* [ ] Tratamento de erros
-* [ ] Promises
-* [ ] Async/Await
-* [ ] Mini projetos
-
 ## 02 — Node.js
-
-* [ ] Fundamentos
-* [ ] npm
-* [ ] Módulos
-* [ ] Sistema de arquivos
-* [ ] CLI
-* [ ] HTTP
-* [ ] Servidor HTTP
-* [ ] APIs
-
 ## 03 — Backend
-
-* [ ] Express
-* [ ] Rotas
-* [ ] Middleware
-* [ ] Controllers
-* [ ] Services
-* [ ] REST
-* [ ] Validação
-* [ ] Tratamento de erros
-
 ## 04 — Banco de Dados
-
-* [ ] SQL
-* [ ] PostgreSQL
-* [ ] CRUD
-* [ ] Relacionamentos
-* [ ] JOINs
-* [ ] Transações
-* [ ] Node + PostgreSQL
-* [ ] Prisma
-* [ ] Migrations
-
 ## 05 — TypeScript
-
-* [ ] Tipos
-* [ ] Interfaces
-* [ ] Type aliases
-* [ ] Union types
-* [ ] Tipagem de funções
-* [ ] Generics básicos
-* [ ] Node + TypeScript
-* [ ] Express + TypeScript
-* [ ] Prisma + TypeScript
-
 ## 06 — Engenharia Backend
-
-* [ ] Arquitetura
-* [ ] Autenticação
-* [ ] Autorização
-* [ ] JWT
-* [ ] Hash de senhas
-* [ ] Testes
-* [ ] Docker
-* [ ] Variáveis de ambiente
-* [ ] Deploy
-
 ## 07 — React
-
-* [ ] Componentes
-* [ ] JSX
-* [ ] Props
-* [ ] State
-* [ ] Eventos
-* [ ] Hooks
-* [ ] `useState`
-* [ ] `useEffect`
-* [ ] React Router
-* [ ] Consumo de APIs
-* [ ] Formulários
-* [ ] React Query
-* [ ] Zod
-
 ## 08 — Fullstack
-
-* [ ] Integração Frontend + Backend
-* [ ] Autenticação
-* [ ] CRUD completo
-* [ ] Tratamento de erros
-* [ ] Loading states
-* [ ] Deploy
-* [ ] Projeto Fullstack completo
-
 ---
-
 # 🚧 Em desenvolvimento
 
 ### Atualmente estudando
 
 # 🚀 Projetos
-
-## Projeto 01 — Sistema de Gestão Acadêmica
-
-Projeto principal da formação.
-
-Stack planejada:
-
-* Node.js
-* TypeScript
-* Express
-* PostgreSQL
-* Prisma
-* React
-* Docker
-
-Status:
-
-* [ ] Planejamento
-* [ ] Backend
-* [ ] Banco de dados
-* [ ] Autenticação
-* [ ] Testes
-* [ ] Frontend
-* [ ] Deploy
-
-## Projeto 02 — Dashboard
-
-Projeto focado em consumo de APIs externas, tratamento de dados e visualização.
-
-Status:
-
-* [ ] Planejamento
-* [ ] Desenvolvimento
-* [ ] Deploy
-
-## Projeto 03 — Automação
-
-Projeto focado em automação, APIs e execução programada.
-
-Status:
-
-* [ ] Planejamento
-* [ ] Desenvolvimento
-* [ ] Automação
-* [ ] Deploy
-
----
-
 
 # Filosofia
 
@@ -203,7 +59,7 @@ Os exercícios e projetos são desenvolvidos por mim, com documentação das dif
 
 # 📈 Objetivo final
 
-Ao final desta jornada, ser capaz de:
+Ao final desta jornada, quero ser capaz de:
 
 * [ ] Receber um problema e decompor em partes
 * [ ] Desenvolver uma solução sem tutorial passo a passo
