@@ -8,13 +8,7 @@ Altere um dos jogos do array.
 Exiba:
     O array completo.
     A quantidade de jogos.
-Regra
-    Tente resolver utilizando apenas o que vimos até agora:
-        []
-        array[indice]
-        array.length
-        console.log()
-Não use ainda push, pop, loops ou métodos de array.*/
+*/
 const jogos = [
   "Crinson Desert",
   "Pokemon",
