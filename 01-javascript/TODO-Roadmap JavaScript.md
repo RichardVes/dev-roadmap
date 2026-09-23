@@ -110,10 +110,10 @@ Propriedades, métodos e o this.
 
 09 — Destructuring
 Extrair valores de arrays e objetos direto na variável.
-[ ] Teoria
-[ ] Exercícios
-[ ] Desafios
-[ ] Conceito dominado
+[x] Teoria
+[x] Exercícios
+[x] Desafios
+[x] Conceito dominado
 
 10 — Spread / Rest
 Espalhar (...arr) e agrupar valores em funções, arrays e objetos.
