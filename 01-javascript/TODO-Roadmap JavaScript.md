@@ -117,10 +117,10 @@ Extrair valores de arrays e objetos direto na variável.
 
 10 — Spread / Rest
 Espalhar (...arr) e agrupar valores em funções, arrays e objetos.
-[ ] Teoria
-[ ] Exercícios
-[ ] Desafios
-[ ] Conceito dominado
+[x] Teoria
+[x] Exercícios
+[Retornar] Desafios
+[Retornar] Conceito dominado
 
 11 — JSON
 JSON.stringify (objeto → texto) e JSON.parse (texto → objeto).
