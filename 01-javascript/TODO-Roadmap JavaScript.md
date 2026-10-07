@@ -124,7 +124,7 @@ Espalhar (...arr) e agrupar valores em funções, arrays e objetos.
 
 11 — JSON
 JSON.stringify (objeto → texto) e JSON.parse (texto → objeto).
-[ ] Teoria
+[x] Teoria
 [ ] Exercícios
 [ ] Desafios
 [ ] Conceito dominado
